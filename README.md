@@ -25,6 +25,6 @@ Hi 👋, I'm Sajid Noor Muhammad.<br>A passionate frontend developer from Pakist
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SajidNoorMuhammad&icon=0&color=2)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
