@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Sajid Noor Muhammad and I'm a passionate frontend developer, from Karachi, Pakistan.</h2>
+<h3 align="left">My name is Sajid Noor Muhammad and I'm a passionate frontend developer, from Karachi, Pakistan.</h3>
 
 ###
 
