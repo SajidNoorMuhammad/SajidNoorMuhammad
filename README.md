@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SajidNoorMuhammad](https://github.com/SajidNoorMuhammad)
 
-- 💬 Ask me about **HTML, CSS And JavaScript.**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript & ReactJS.**
 
 - 📫 How to reach me **snoormuhammad37@gmail.com**
 
