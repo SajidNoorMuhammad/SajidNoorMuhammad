@@ -1,71 +1,59 @@
-<h1 align="center">Hi 👋, I'm Sajid Noor Muhammad</h1>
-<h3 align="center">A passionate Frontend Developer from Karachi, Pakistan</h3>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#00A6FB">Sajid Noor Muhammad</span></h1>
+<h3 align="center">🚀 Frontend Developer | JavaScript Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sajidnoormuhammad&theme=gruvbox&no-frame=true&margin-w=10" alt="sajidnoormuhammad" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sajidnoormuhammad&theme=onedark&no-frame=true&margin-w=10&column=7" alt="trophies" />
 </p>
 
 ---
 
-### 👨‍💻 About Me:
-- 🔭 I’m currently working on **Learning Management System (LMS)**.
-- 🌱 I’m currently learning **Next.js & MongoDB**.
-- 👯 I’m looking to collaborate with **Saylani Mass IT Training Center**.
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js & MongoDB**.
-- 📫 How to reach me: **snoormuhammad37@gmail.com**
-- 📄 Know about my experiences: [**My Resume**](https://sajidnoormuhammad.github.io/My-Short-CV-RESUME-/)
-
----
-
-### 🔗 Connect with me:
+<h2 align="center">💻 About Me:</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/sajid-noor-muhammad-97b059204" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/snoo_r46" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+🌍 Based in Karachi, Pakistan <br/>
+🔭 Currently building a **Learning Management System (LMS)** <br/>
+🌱 Learning **Next.js** and **MongoDB** <br/>
+👯 Open to collaborations with **Saylani Mass IT Training Center** <br/>
+💬 Expertise in **HTML, CSS, JavaScript, React, Next.js & MongoDB** <br/>
+📫 Reach me at **snoormuhammad37@gmail.com** <br/>
+📄 View my resume [**here**](https://sajidnoormuhammad.github.io/My-Short-CV-RESUME-/)
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+<h2 align="center">🔗 Let's Connect:</h2>
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
+  <a href="https://linkedin.com/in/sajid-noor-muhammad-97b059204" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <a href="https://instagram.com/snoo_r46" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+<h2 align="center">🛠️ Skills & Tools:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajidnoormuhammad&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajidnoormuhammad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajidnoormuhammad&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajidnoormuhammad&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidnoormuhammad&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidnoormuhammad&theme=tokyonight" alt="GitHub Streak" />
 </p>
