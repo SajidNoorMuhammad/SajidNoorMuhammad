@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajid Noor Muhammad</h1>
-<h3 align="center">A passionate Frontend Developer from Karachi, Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer from Karachi, Pakistan</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sajidnoormuhammad&theme=gruvbox&no-frame=true&margin-w=10" alt="sajidnoormuhammad" />
