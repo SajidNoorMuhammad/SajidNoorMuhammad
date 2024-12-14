@@ -8,10 +8,10 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on **Mobile Apps**.  
-- 🌱 I’m currently learning **React Native**.  
+- 🔭 I’m currently working on **Backend**.  
+- 🌱 I’m currently learning **Node Js**.  
 - 👯 I’m looking to collaborate with **Saylani Mass IT Training Center**.  
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js, MongoDB, and React Native**.  
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js, MongoDB, React Native and Node Js**.  
 - 📫 How to reach me: **[snoormuhammad37@gmail.com](mailto:snoormuhammad37@gmail.com)**  
 - 📄 Know about my experiences: [**My Resume**](https://sajidnoormuhammad.github.io/My-Short-CV-RESUME-/)
 
