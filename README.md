@@ -1,11 +1,11 @@
 # 💫 About Me  
-### 👨‍💻 Backend Developer | Passionate Learner | Tech Enthusiast  
+### 👨‍💻 Mern Stack Developer | Passionate Learner | Tech Enthusiast  
 - 🔭 **Currently working on:** Backend Development  
 - 🌱 **Learning:** Node.js and advanced backend concepts  
 - 👯 **Collaboration Interest:** Saylani Mass IT Training Center  
 - 💬 **Ask me about:** HTML, CSS, JavaScript, React, Next.js, MongoDB, React Native, and Node.js  
 - 📫 **How to reach me:** snoormuhammad37@gmail.com  
-- 📄 [**View My Resume**](#)  
+- 📄 [**View My Resume**](https://sajidnoormuhammad.github.io/My-Short-CV-RESUME-/)  
 
 ---
 
