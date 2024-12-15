@@ -58,6 +58,11 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidnoormuhammad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />  
       </td>
     </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-profile-trophy.vercel.app/?username=sajidnoormuhammad&theme=tokyonight&no-frame=false&margin-w=15&margin-h=15&row=1" alt="GitHub Trophies" />
+      </td>
+    </tr>
   </table>
 </div>
 
