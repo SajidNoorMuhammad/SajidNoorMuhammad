@@ -3,7 +3,8 @@
 - 🔭 **Currently working on:** Backend Development  
 - 🌱 **Learning:** Node.js and advanced backend concepts  
 - 👯 **Collaboration Interest:** Saylani Mass IT Training Center  
-- 💬 **Ask me about:** HTML, CSS, JavaScript, React, Next.js, MongoDB, React Native, and Node.js  
+- 💬 **Ask me about:** HTML, CSS, JavaScript, React, Next.js, MongoDB, React Native, Node.js and Api Development
+- 🌍 **Experience:** 2+ years of web development, building scalable applications, and integrating third-party APIs  
 - 📫 **How to reach me:** snoormuhammad37@gmail.com  
 - 📄 [**View My Resume**](https://sajidnoormuhammad.github.io/My-Short-CV-RESUME-/)  
 
