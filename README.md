@@ -22,23 +22,19 @@
 
 ## 💻 Tech Stack  
 ### 🌟 Core Technologies  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Core Technologies" />
+</div>
 
 ### 🌐 Frameworks & Libraries  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express,reactnative" alt="Frameworks & Libraries" />
+</div>
 
 ### 🛠️ Tools & Platforms  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,netlify,vercel,figma" alt="Tools & Platforms" />
+</div>
 
 ---
 
@@ -69,12 +65,16 @@
 ---
 
 ### ✍️ Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>  
 
 ---
 
 ### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=sajidnoormuhammad&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sajidnoormuhammad&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Repositories" />
+</div>  
 
 ---
 
