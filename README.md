@@ -44,9 +44,21 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sajidnoormuhammad&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidnoormuhammad&theme=radical&hide_border=false" alt="GitHub Streak" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidnoormuhammad&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sajidnoormuhammad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />  
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidnoormuhammad&theme=tokyonight&hide_border=false" alt="GitHub Streak" />  
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidnoormuhammad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />  
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -57,7 +69,7 @@
 ---
 
 ### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=sajidnoormuhammad&limit=5&theme=radical&combine_all_yearly_contributions=true)  
+![](https://github-contributor-stats.vercel.app/api?username=sajidnoormuhammad&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
 
 ---
 
