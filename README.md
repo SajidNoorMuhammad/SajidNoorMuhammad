@@ -22,18 +22,28 @@
 
 ## 💻 Tech Stack  
 ### 🌟 Core Technologies  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Core Technologies" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
 </div>
 
 ### 🌐 Frameworks & Libraries  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,express,reactnative" alt="Frameworks & Libraries" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=reactnative" alt="React Native" />
 </div>
 
 ### 🛠️ Tools & Platforms  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,netlify,vercel,figma" alt="Tools & Platforms" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
 </div>
 
 ---
