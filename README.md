@@ -28,35 +28,38 @@
 
 ## 💻 Tech Stack  
 
-### 🧠 Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
-
-### ⚛️ Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,reactnative" />
-</p>
-
-### 🌐 Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗃️ Databases & Auth  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-</p>
-
-### ☁️ Hosting & DevOps  
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,railway" />
-</p>
-
-### 🎨 Design & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,vscode,postman,github" />
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <h3>🧠 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+    </td>
+    <td valign="top">
+      <h3>⚛️ Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,reactnative" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🌐 Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    </td>
+    <td valign="top">
+      <h3>🗃️ Database & Auth</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>☁️ Hosting & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=vercel,netlify,railway" />
+    </td>
+    <td valign="top">
+      <h3>🎨 Design & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=figma,vscode,postman,github" />
+    </td>
+  </tr>
+</table>
 
 ---
 
