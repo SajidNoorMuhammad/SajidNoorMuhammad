@@ -1,7 +1,7 @@
 # 💫 About Me  
 ### 👨‍💻 Mern Stack Developer | Passionate Learner | Tech Enthusiast  
-- 🔭 **Currently working on:** Backend Development  
-- 🌱 **Learning:** Node.js and advanced backend concepts  
+- 🔭 **Currently working on:** AllInOne Online Store  
+- 🌱 **Learning:** Advanced Backend Concepts  
 - 👯 **Collaboration Interest:** Saylani Mass IT Training Center  
 - 💬 **Ask me about:** HTML, CSS, JavaScript, React, Next.js, MongoDB, React Native, Node.js and Api Development
 - 🌍 **Experience:** 2+ years of web development, building scalable applications, and integrating third-party APIs  
