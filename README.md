@@ -65,10 +65,9 @@
 - REST APIs & CRUD Operations  
 - Authentication & Authorization  
 - Third-party API Integration  
-- Real-time Apps with Firebase  
-- State Management with Redux  
+- Real-time Apps with NodeJs Express  
+- State Management with Context Api  
 - LocalStorage & SessionStorage  
-- Git & GitHub for Collaboration  
 
 ---
 
@@ -77,7 +76,6 @@
 - 📊 **Saylani Quiz App** – A React-based quiz app with local storage and timer  
 - 📝 **Recipe App** – User-driven recipe sharing with Firebase authentication  
 - 📱 **Mobile Budget Tracker** – Cross-platform React Native app for expense tracking  
-- 🎮 **Memory Card Game** – JavaScript game for web, designed using only basic JS  
 
 ---
 
