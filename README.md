@@ -27,21 +27,37 @@
 
 ## 💻 Tech Stack  
 
-### 🌟 Core Technologies  
+## 💻 Tech Stack  
+
+### 🧠 Languages  
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
-### 🌐 Frameworks & Libraries  
+### ⚛️ Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,express,reactnative" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,reactnative" />
 </p>
 
-### 🛠️ Tools & Platforms  
+### 🌐 Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel,netlify,figma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
+### 🗃️ Databases & Auth  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+### ☁️ Hosting & DevOps  
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,railway" />
+</p>
+
+### 🎨 Design & Productivity  
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,vscode,postman,github" />
+</p>
 ---
 
 ## 📊 GitHub Stats  
