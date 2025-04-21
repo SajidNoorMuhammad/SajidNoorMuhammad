@@ -1,11 +1,12 @@
 <!-- README.md -->
 
-# 💫 About Me  
+# 👋 Hey, I'm Sajid Noor Muhammad  
+
 ### 👨‍💻 MERN Stack Developer | Creative Problem Solver | Continuous Learner  
 
 - 🔭 **Currently Working On:** `AllInOne Online Store` — a scalable, multi-featured e-commerce platform  
-- 📚 **Learning:** Mastering advanced backend concepts (Authentication, Microservices, Serverless Architecture)  
-- 🤝 **Collaboration Interest:** Open to working with `Saylani Mass IT Training Center` & community-driven projects  
+- 📚 **Learning:** Authentication, Microservices, Serverless Architecture  
+- 🤝 **Collaboration Interest:** Saylani Mass IT Training Center & community-driven tech  
 - 💬 **Ask Me About:**  
   `HTML`, `CSS`, `JavaScript`, `React`, `Next.js`, `MongoDB`, `React Native`, `Node.js`, `API Development`  
 - 🌍 **Experience:** 2+ years building full-stack applications & integrating third-party APIs  
@@ -24,8 +25,6 @@
 </p>
 
 ---
-
-## 💻 Tech Stack  
 
 ## 💻 Tech Stack  
 
@@ -54,10 +53,37 @@
   <img src="https://skillicons.dev/icons?i=vercel,netlify,railway" />
 </p>
 
-### 🎨 Design & Productivity  
+### 🎨 Design & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=figma,vscode,postman,github" />
 </p>
+
+---
+
+## 🧠 Knowledge Areas  
+- Responsive UI/UX Design  
+- REST APIs & CRUD Operations  
+- Authentication & Authorization  
+- Third-party API Integration  
+- Real-time Apps with Firebase  
+- State Management with Redux  
+- LocalStorage & SessionStorage  
+- Git & GitHub for Collaboration  
+
+---
+
+## 🚀 Projects Spotlight  
+- 🔥 **AllInOne Online Store** – Full-featured e-commerce platform with admin control  
+- 📊 **Saylani Quiz App** – A React-based quiz app with local storage and timer  
+- 📝 **Recipe App** – User-driven recipe sharing with Firebase authentication  
+- 📱 **Mobile Budget Tracker** – Cross-platform React Native app for expense tracking  
+- 🎮 **Memory Card Game** – JavaScript game for web, designed using only basic JS  
+
+---
+
+## 📌 Featured Blog Posts *(Coming Soon)*  
+> 🛠️ Planning to start sharing knowledge on MERN development, clean code, and beginner projects.
+
 ---
 
 ## 📊 GitHub Stats  
