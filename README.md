@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Sajid Noor Muhammad  
 
-### 👨‍💻 MERN Stack Developer | Creative Problem Solver | Continuous Learner  
+### 👨‍💻 MERN Stack Developer | Creative Problem Solver | Continuous Learner
 
 - 🔭 **Currently Working On:** `AllInOne Online Store` — a scalable, multi-featured e-commerce platform  
 - 📚 **Learning:** Authentication, Microservices, Serverless Architecture  
