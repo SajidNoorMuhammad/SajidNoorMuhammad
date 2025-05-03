@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-# 👋 Hey, I'm Sajid Noor Muhammad  
+# 👋 Hey, I'm Sajid Noor Muhammad 
 
 ### 👨‍💻 MERN Stack Developer | Creative Problem Solver | Continuous Learner
 
