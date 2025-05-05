@@ -4,7 +4,7 @@
 
 ### 👨‍💻 MERN Stack Developer | Creative Problem Solver | Continuous Learner
 
-- 🔭 **Currently Working On:** `AllInOne Online Store` — a scalable, multi-featured e-commerce platform  
+- 🔭 **Currently Working On:** `MedElite Medical Store` — a scalable, multi-featured e-commerce platform  
 - 📚 **Learning:** Authentication, Microservices, Serverless Architecture  
 - 🤝 **Collaboration Interest:** Saylani Mass IT Training Center & community-driven tech  
 - 💬 **Ask Me About:**  
