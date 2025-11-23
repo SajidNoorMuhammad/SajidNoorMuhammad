@@ -4,7 +4,7 @@
 
 ### 👨‍💻 MERN Stack Developer | Creative Problem Solver | Continuous Learner
 
-- 🔭 **Currently Working On:** `Advanced Topics` — a scalable, multi-featured & advanced topics
+- 🔭 **Currently Working On:** `Chatting App` — a scalable, multi-featured & advanced tools
 - 📚 **Learning:** Authentication, Microservices, Serverless Architecture  
 - 🤝 **Collaboration Interest:** Saylani Mass IT Training Center & community-driven tech  
 - 💬 **Ask Me About:**  
