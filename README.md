@@ -11,7 +11,7 @@
   `HTML`, `CSS`, `JavaScript`, `React`, `Next.js`, `MongoDB`, `React Native`, `Node.js`, `API Development`  
 - 🌍 **Experience:** 2+ years building full-stack applications & integrating third-party APIs  
 - 📫 **Reach Me At:** snoormuhammad37@gmail.com  
-- 📄 [**My Resume**](https://sajid-curriculum-vitae.vercel.app/)
+- 📄 [**My Resume**](https://sajid-the-developer.vercel.app/)
 
 ---
 
