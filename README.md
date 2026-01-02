@@ -1,117 +1,27 @@
-<!-- README.md -->
+# 💫 About Me:
+- 🔭 **Currently Working On:** `Chatting App` — a scalable, multi-featured & advanced tools<br>- 📚 **Learning:** Authentication, Microservices, Serverless Architecture  <br>- 🤝 **Collaboration Interest:** Saylani Mass IT Training Center & community-driven tech  <br>- 💬 **Ask Me About:**  <br>  `HTML`, `CSS`, `JavaScript`, `React`, `Next.js`, `MongoDB`, `React Native`, `Node.js`, `API Development`  <br>- 🌍 **Experience:** 2+ years building full-stack applications & integrating third-party APIs  <br>- 📫 **Reach Me At:** snoormuhammad37@gmail.com  <br>- 📄 [**My Resume**](https://sajid-the-developer.vercel.app/)
 
-# 👋 Hey, I'm Sajid Noor Muhammad 
 
-### 👨‍💻 MERN Stack Developer | Creative Problem Solver | Continuous Learner
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sajid220490) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sajidnoormuhammad1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/snm_syntaxvibes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajidnoormuhammad97b059204) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@sajidnoor0314) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snoormuhammad37@gmail.com) 
 
-- 🔭 **Currently Working On:** `Chatting App` — a scalable, multi-featured & advanced tools
-- 📚 **Learning:** Authentication, Microservices, Serverless Architecture  
-- 🤝 **Collaboration Interest:** Saylani Mass IT Training Center & community-driven tech  
-- 💬 **Ask Me About:**  
-  `HTML`, `CSS`, `JavaScript`, `React`, `Next.js`, `MongoDB`, `React Native`, `Node.js`, `API Development`  
-- 🌍 **Experience:** 2+ years building full-stack applications & integrating third-party APIs  
-- 📫 **Reach Me At:** snoormuhammad37@gmail.com  
-- 📄 [**My Resume**](https://sajid-the-developer.vercel.app/)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sajidnoormuhammad&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sajidnoormuhammad&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajidnoormuhammad&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sajidnoormuhammad&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://discord.gg/sajid220490"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://facebook.com/sajidnoormuhammad1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/sk9408899"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sajidnoormuhammad97b059204"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://tiktok.com/@sajidnoor0314"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sajidnoormuhammad&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sajidnoormuhammad&icon=9&color=0)](https://visitcount.itsvg.in)
 
-## 💻 Tech Stack  
-
-<table>
-  <tr>
-    <td valign="top">
-      <h3>🧠 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-    </td>
-    <td valign="top">
-      <h3>⚛️ Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,reactnative" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>🌐 Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express" />
-    </td>
-    <td valign="top">
-      <h3>🗃️ Database & Auth</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>☁️ Hosting & DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=vercel,netlify,railway" />
-    </td>
-    <td valign="top">
-      <h3>🎨 Design & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=figma,vscode,postman,github" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧠 Knowledge Areas  
-- Responsive UI/UX Design  
-- REST APIs & CRUD Operations  
-- Authentication & Authorization  
-- Third-party API Integration  
-- Real-time Apps with NodeJs Express  
-- State Management with Context Api  
-- LocalStorage & SessionStorage  
-
----
-
-## 🚀 Projects Spotlight  
-- 🔥 **AllInOne Online Store** – Full-featured e-commerce platform with admin control  
-- 📊 **Saylani Quiz App** – A React-based quiz app with local storage and timer  
-- 📝 **Recipe App** – User-driven recipe sharing with Firebase authentication  
-- 📱 **Mobile Budget Tracker** – Cross-platform React Native app for expense tracking  
-
----
-
-## 📌 Featured Blog Posts *(Coming Soon)*  
-> 🛠️ Planning to start sharing knowledge on MERN development, clean code, and beginner projects.
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajidnoormuhammad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidnoormuhammad&theme=tokyonight&hide_border=false" width="45%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidnoormuhammad&theme=tokyonight&hide_border=false&layout=compact" width="50%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sajidnoormuhammad&theme=tokyonight&no-frame=false&margin-w=15&margin-h=15&row=1" />
-</p>
-
----
-
-## ✍️ Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🔝 Top Contributed Repo  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sajidnoormuhammad&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
