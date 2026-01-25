@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 **Currently Working On:** `Chatting App` — a scalable, multi-featured & advanced tools<br> - 📚 **Learning:** Authentication, Microservices, Serverless Architecture  <br>- 🤝 **Collaboration Interest:** Saylani Mass IT Training Center & community-driven tech  <br>- 💬 **Ask Me About:**  <br>  `HTML`, `CSS`, `JavaScript`, `React`, `Next.js`, `MongoDB`, `React Native`, `Node.js`, `API Development`  <br>- 🌍 **Experience:** 2+ years building full-stack applications & integrating third-party APIs  <br>- 📫 **Reach Me At:** snoormuhammad37@gmail.com  <br>- 📄 [**My Resume**](https://sajid-the-developer.vercel.app/)
+- 🔭 **Currently Working On:** `Chatting App` — a scalable, multi-featured & advanced tools<br> - 📚 **Learning:** Authentication, Microservices, Serverless Architecture  <br>- 🤝 **Collaboration Interest:** Saylani Mass IT Training Center & community-driven tech  <br>- 💬 **Ask Me About:**  <br>  `HTML`, `CSS`, `JavaScript`, `React`, `Next.js`, `MongoDB`, `React Native`, `Node.js`, `API Development`  <br>- 🌍 **Experience:** 2+ years building full-stack applications & integrating third-party APIs  <br>- 📫 **Reach Me At:** snoormuhammad37@gmail.com  <br>- 📄 [**My Resume**](https://sajid-the-developer.vercel.app/) 
 
 
 ## 🌐 Socials:
